@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "94756857260",
   OWNER_NAME: "『 Rush 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  ZUSYCO_FILE : "creds.json",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
