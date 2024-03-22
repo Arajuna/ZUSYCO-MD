@@ -16,9 +16,9 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94756857260",
-  SUDO_NUMBERS : "94756857260",
-  OWNER_NAME: "『 Rush 』",
+  OWNER_NUMBER: "+94753723108",
+  SUDO_NUMBERS : "+94753723108",
+  OWNER_NAME: "『 Daxton 』",
   BOT_NAME : "ＺＵＳＹＣＯ",
   ZUSYCO_FILE : "creds.json",
   LOGOS: {
@@ -32,12 +32,12 @@ module.exports = {
   }
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "public",
+  WORK_TYPE : "private ",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
   CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
   STICKER_PACK : '[ ZUSYCO ]',
-  BAD_WORDS : 'fuck,pussy',
+  BAD_WORDS : 'fuck,pussy,huththo',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : false,
@@ -50,11 +50,11 @@ module.exports = {
   READ : {
      ALL_MESSAGES : true,
      ONLY_COMMANDS : false,
-     STATUS : false,
+     STATUS : true,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : true,
+  AUTO_REACT : false,
   OWNER_REACT : '🤵‍♂️',
   AUTO_BGM : true,
   BGM : {
